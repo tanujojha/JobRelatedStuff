@@ -1,0 +1,25 @@
+FREECHARGE
+
+1. In react class components we had a global error managing component how to achieve it in func component.
+2. How to restrict malicious code being sent in req.body in node API (something like sql injection).
+3. How to Debug rendering limit exceeded in react.
+4. Different Optimizations we can do in react for SEO, fast loading of landing page, reduce build size
+5. How can we show some loading or transition upon moving from one url to a different url.
+6. Why is suspense better than manually handling the loading(isLoading) in component.
+7. We can store server logs on server, how can we do that for the client.
+
+
+
+
+TECHOLUTION
+
+1. inline vs block long polling short polling webhooks
+2. Can you tell me about a time you were part of the creative process?
+3. They are very strict knowing about your short term and long term goals.
+4. mongo db aggregation and pipeline and all basic questions .
+5. sum of three numbers paranthesis check
+6. What are you working on in your current job?
+7. What is the difference between abstraction and encapsulation?
+8. What do you want from this position?
+9. What is hoisting in javascript.
+10. What is the difference between library and framework

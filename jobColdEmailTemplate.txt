@@ -1,0 +1,18 @@
+Subject: Application for Full-Stack Engineer Position at Appradius
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Full-Stack Engineer position at Appradius as advertised. With over [X years] of experience in MERN stack development, coupled with a passion for innovation and problem-solving, I am confident in my ability to contribute effectively to your team and help drive the company's success.
+
+In my previous roles, I have demonstrated proficiency in creating robust back-end code with Node.js, utilizing async-await architecture, and integrating REST APIs seamlessly into front-end applications using React.js. My experience extends to writing efficient mongoose schemas, implementing business logic in front-end applications, and managing states effectively using Redux, Redux thunk/saga, and Mobx. Moreover, my familiarity with popular React UI libraries like Material UI and Antd, coupled with hands-on experience with AWS SDK and Firebase Services, aligns well with the requirements outlined in the job description.
+
+What sets me apart as a candidate is my strong product thinking, which allows me to assess requirements from a user-centric perspective, ensuring the design and user experience of applications meet the highest standards. Additionally, my proficiency in Agile and Scrum methodologies, coupled with a commitment to meeting deliverables within established timelines, makes me well-equipped to thrive in a fast-paced environment.
+
+I am particularly drawn to Appradius's commitment to fostering a collaborative and inclusive work culture, as well as the emphasis on continuous learning and professional development. I am excited about the opportunity to contribute to your diverse range of projects and make a positive impact within your organization.
+
+Enclosed is my updated resume for your review. I am eager to further discuss how my skills and experiences align with the needs of your team. Thank you for considering my application. I look forward to the possibility of contributing to the success of Appradius.
+
+Warm regards,
+
+[Your Name]
+[Your Contact Information]

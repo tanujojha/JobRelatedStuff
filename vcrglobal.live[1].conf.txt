@@ -1,0 +1,31 @@
+# vcrglobal.live
+
+server {
+    listen 80 default_server;
+	listen [::]:80 default_server;
+    server_name _;
+    return 301 https://vcrglobal.live$request_uri;
+}
+
+server {
+	listen 443 ssl;
+	listen [::]:443 ssl ipv6only=on;
+
+	server_name vcrglobal.live;
+
+	root /var/www/html/build;
+	index index.html;
+
+	location / {
+		try_files $uri $uri/ /index.html?$args;
+	}
+
+	location /api/ {
+		proxy_pass http://localhost:5000;
+	}
+	
+	ssl_certificate /etc/letsencrypt/live/vcrglobal.live/fullchain.pem;
+	ssl_certificate_key /etc/letsencrypt/live/vcrglobal.live/privkey.pem;
+	include /etc/letsencrypt/options-ssl-nginx.conf;
+	ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+}

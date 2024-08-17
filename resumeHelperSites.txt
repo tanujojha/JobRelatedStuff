@@ -1,0 +1,65 @@
+Usefull words and keywords
+https://resumeworded.com/action-verbs
+
+
+1. MNB Project Management
+Developed MNB Project Management which is a SaaS product. It has mainly 3 panels which are admin, employee and client. It has features like project tracking ticket tracking, employees and client management system, a chatting system, employee performance reporting, tenant isolation, leads management, HRMS. it also has features for managing appointment, payment and expense and quotations
+
+Developed a comprehensive SaaS project management platform (MNB Project Management) with a multi-tenant architecture for client isolation.  The platform utilizes role-based access control with dedicated admin, employee, and client dashboards.
+
+Key Features:
+
+    Project & Task Management: Streamlined project tracking with task creation, assignment, and progress monitoring.
+    Communication & Collaboration: Integrated chat system for real-time communication among team members and clients.
+    Resource Management: Employee and client management system for efficient resource allocation and project team building.
+    Performance Tracking: Employee performance reporting to identify strengths and areas for improvement.
+    Financial Management: Appointment scheduling, secure payment processing, expense tracking, and quotation generation for streamlined financial operations.
+    HR Management: Built-in HRMS (Human Resource Management System) functionalities (mention specific functionalities if applicable).
+    Lead Management: Lead capture and nurturing tools to streamline the sales pipeline.
+
+2. MNB Mart
+Developed the backend of MNB Mart which is a multi vendor e-commerce platform using nodejs and mongodb. Integrated phonepay APIs for payment. it is user friendly and has security features and an interactive UI.
+
+The below are the features listed
+Features
+1. Wide Range of Product
+Browse a comprehensive selection of products across various categories, including electronics, fashion, home & kitchen, beauty & health, groceries, toys & games, and sports & outdoors. Whatsoever you're searching for, you'll get the same on MNB Mart.
+2. Intuitive Interface
+MNB Mart gives you a smooth, user-friendly shopping experience with detailed product descriptions, and high-quality images.
+3. Data Security 
+
+MNB use the latest encoding technology to secure your personal and financial data to shop with confidence.
+Your security is our priority. Shop with confidence knowing that our secure payment gateways protect your personal and financial information. We use the latest encryption technologies to ensure your data is safe.
+4. Fast Delivery
+MNB Mart knows that you can't wait to collect your order, to fast track the same we use proper logistic network to get the proper updation of your order till the product got delivered. 
+5. Superior Customer Service
+For MNB customer satisfaction is our top priority on the same base line we provide any assistance you need whether it is before or after sales service.
+6. Exclusive Deals and Offers
+We provide a wide range of offers and promotions to get you with exclusive deals and discounts that make the customers always get more on low prices.
+7. Easy Returns
+MNB Mart open door policy helps you in making your shopping experience risk free, and ensures that with minimal hassle you can return/ exchange your products easily
+
+
+Developed the scalable backend for MNB Mart, a feature-rich multi-vendor e-commerce platform. Built with Node.js and MongoDB for performance and flexibility. Integrated secure payments (PhonePe) and implemented a real-time order tracking system for enhanced customer experience.
+MNB Mart boasts a user-friendly interface with comprehensive features, ensuring a seamless and secure shopping experience for customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
